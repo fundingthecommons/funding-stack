@@ -10,7 +10,7 @@ It also provoked the question "what is missing", which lead to the development o
 - [See mockups here](https://github.com/fundingthecommons/funding-stack/issues/2) - [@Sofia](https://github.com/sodofi)
 
 ### Smart contracts
-- Smart contract work is tracked on [Abhi's fork](https://github.com/Abhimanyu121/hypercerts) of the Hypercert repo
+- Smart contract work is tracked on [Abhi's fork](https://github.com/hypercerts-org/hypercerts/pull/1068) of the Hypercert repo
 
 ### Sub-graph
 - This is [spec'ed here](https://github.com/fundingthecommons/hyperboards/issues/4)
